@@ -5,8 +5,12 @@
   "main": "server.js",
   "dependencies": {
     "classnames": "^2.2.5",
+    "immutable": "^3.8.1",
     "react": "~15.0.2",
-    "react-dom": "~15.0.2"
+    "react-css-modules": "^4.7.1",
+    "react-dom": "~15.0.2",
+    "react-immutable-render-mixin": "^0.9.7",
+    "react-motion": "^0.5.1"
   },
   "devDependencies": {
     "babel": "^6.5.2",
@@ -46,6 +50,3 @@
   },
   "homepage": "https://github.com/theartlearnjs/react_study#readme"
 }
-
-
-
